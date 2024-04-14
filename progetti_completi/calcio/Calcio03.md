@@ -5,7 +5,18 @@ Creare un sito in HTML ed eventualmente CSS che ha 4 pagine
 * `squadre.php`
 * `procuratori.php`
 
-le pagine `giocatori.php`, `squadre.php`, `procuratori.php` hanno un body con una sola descrizione a piacere e visualizzano prelevando dal DB la corrispondente **tabella**  con tutte le informazioni escluso l'ID. 
+le pagine `giocatori.php`, `squadre.php`, `procuratori.php` hanno un body con una sola descrizione a piacere e visualizzano prelevando dal DB la corrispondente **tabella**  con tutte le informazioni escluso l'ID.
+
+Di segutio rispettivamete un'immagine della index, giocatori, squadre, procuratori.
+
+![index](./img/parte03-01index.png)
+
+![index](./img/parte03-02giocatori.png)
+
+![index](./img/parte03-03squadre.png)
+
+![index](./img/parte03-04procuratori.png)
+
 
 Rispettare inoltre le seguenti specifiche:
 * Per la tabella `squadre` il campo `Budget` usare un formato numerico in modo da visualizzare un separatore per le migliaia.
