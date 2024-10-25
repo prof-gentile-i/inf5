@@ -1,0 +1,2 @@
+# Calcio 5 - Per ogni giocatore anche il procuratore
+Modificare il progetto `04-Calcio4` in modo che nella pagina `giocatori_elab.php` siano visializzati anche il cognome e nome (e non il suo Id) del procuratore di ogni giocatore.
