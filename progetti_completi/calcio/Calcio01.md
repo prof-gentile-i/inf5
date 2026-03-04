@@ -1,8 +1,8 @@
 # Calcio01
 Realizzare il database sulla gestione delle squadre di calcio.
-Bisogna compilare uno stesso foglio di calcolo presente al seguente link
+Bisogna compilare uno stesso foglio di calcolo come quello seguente (che rappresenta un esempio)
 
-[foglio di calcolo del DB](https://docs.google.com/spreadsheets/d/1ufGat5lYOovOEFbwfDz0B6VMo46w1tJ137aRGzN29io/edit?usp=sharing)
+[foglio di calcolo del DB](https://docs.google.com/spreadsheets/d/1nnKHRQxuVGGrVrTmTM8qVBlsSvcxzUM62X0e-wHJBa0/edit?usp=sharing)
 
 Il foglio di calcolo è diviso in **5** fogli di lavoro in cui i primi 4 contengono già dei dati di esempio. Tuttavia, **controllare la correttezza dei dati ed aggiungerne degli altri**.
 
